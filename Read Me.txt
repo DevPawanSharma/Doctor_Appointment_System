@@ -1,0 +1,6 @@
+Doctor management System Credentials 
+
+Login Details
+Login Details for admin : admin/admin1
+Login Details for Patient: happybuyhub@gmail.com/1234567890
+Login Details for Doctor: pawan@gmail.com/9818859343
